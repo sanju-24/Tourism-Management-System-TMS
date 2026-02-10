@@ -8,7 +8,7 @@
 | PHP | Backend Logic |
 | MySQL | Database |
 | HTML5 | Structure |
-| CSS3 | Styling |
+| CSS  | Styling |
 | Bootstrap | Responsive Design |
 | JavaScript | Client-side Interaction |
 | XAMPP | Local Server |
