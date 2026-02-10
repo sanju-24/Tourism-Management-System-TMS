@@ -1,13 +1,18 @@
 
 # Tourism Management System (TMS)
 
-## Technologies Used
-- PHP
-- MySQL
-- HTML, CSS, Bootstrap
-- JavaScript
-- XAMPP
-- VS Code
+## 🧰 Technologies Used
+
+| Technology | Purpose |
+|---------|--------|
+| PHP | Backend Logic |
+| MySQL | Database |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Bootstrap | Responsive Design |
+| JavaScript | Client-side Interaction |
+| XAMPP | Local Server |
+| VS Code | Code Editor |
 
 ## How to Run the Project
 1. Install XAMPP
